@@ -1,0 +1,137 @@
+.container2{
+    padding: 48px 40px 36px;
+    border: 1px solid rgb(193, 188, 188);
+    border-radius:10px;
+    display:flex;
+    width:668px;
+    height:505px;
+    margin:auto;
+}
+.Create{
+    padding-top: 16px;
+    font-size: 24px;
+}
+.bottom-nav{display: flex;
+    width: 668px;
+    font-size: 14px;
+    margin: auto;
+    justify-content: right;
+    translate: 0 16px;
+}
+.Help{
+    margin-right:20px;
+}
+.Privacy{
+    margin-right:20px;
+}
+.bottom-nav a{
+    color:grey;
+}
+body{
+    font-family: roboto,"Noto Sans Myanmar UI",arial,sans-serif;
+    color: #202124;
+    margin-top:35px;
+}
+.gm{
+    font-size: 16px;
+    padding-top: 8px;
+}
+.form{
+    padding-top: 24px;
+    border:0px 40px;
+}
+.FS{
+    padding:6px 8px;
+    font-size:14px;
+    display:inline-block;
+    width: 149px;
+    margin:2px;
+    height: 20px;
+}
+.LS{
+    padding:6px 8px;
+    font-size:14px;
+    display:inline-block;
+    width: 149px;
+    margin:2px;
+    height: 20px;
+}
+.newmail{
+    margin-top: 24px;
+    width: 328px;
+    display:block;
+    font-size:14px;
+    padding:7px 9px;
+    height: 20px;
+    color :#5f6368;
+}
+.left{
+    border:0px 40px;
+}
+.one{
+    font-size: 16px;
+    color :#5f6368;
+}
+.you{
+    font-size: 12px;
+    margin-top:4px;
+    height: 20px;
+    color :#5f6368;
+}
+.use8{
+    color :#5f6368;
+    font-size:12px;
+    width:354px;
+    margin-top:4px;
+}
+.password, .confirm{
+    padding:6px 8px;
+    font-size:14px;
+    display:inline-block;
+    width: 149px;
+    margin:2px;
+    height: 20px;
+}
+.right{
+    padding-left: 48px;
+    width: 300px;
+}
+.one{
+    font-size:16px;
+    font-family: roboto,"Noto Sans Myanmar UI",arial,sans-serif;
+    text-align: center;
+    font-weight: 300;
+    width: 244px;
+    
+}
+.showpass{
+    width:16px;
+    height: 16px;
+    margin-top:10px;
+}
+.showtext{
+    font-size:16px;
+    color :#5f6368;
+    margin-top:10px;
+}
+.newusersubmit{
+    background-color:rgba(0, 38, 255, 0.942);
+    color:white;
+    border:none;
+    padding:10px 20px;
+    font-weight:bold;
+    font-size: 15px;
+    border-radius:5px;
+}
+.indexlink{
+    font-size:16px;
+}
+.middlenav{
+    display:flex;
+    margin-top:75px;
+    justify-content:space-between;
+    width: 100%;
+}
+a{
+    text-decoration:none; 
+}

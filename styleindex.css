@@ -1,0 +1,82 @@
+.container1{
+    border: 1px solid rgb(193, 188, 188); 
+    margin:7rem 30rem 0rem; 
+    height:416px; 
+    padding:48px 40px 36px;
+    width:368px;
+    border-radius:10px;
+}
+.googlepic{
+    width="75";
+    height="24";
+}
+.sn{
+    font-size: 24px;
+    line-height: 1.5;
+}
+.gm{
+    font-size: 17px;
+    line-height: 1.5;
+}
+.inputindex{
+    font-size:16px;
+    height:28px;
+    color :#5f6368;
+    padding:13px 15px;
+    width:336px;
+    border-radius:4px;
+    
+}
+.indexform{
+    padding-top:24px;
+}
+.forgot{
+    margin-right:260px;
+    margin-top:10px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+.texts{
+    margin-top:50px;
+    font-size: 13px;
+    margin-right: 8px;
+    color :#5f6368;
+}
+.learn{
+    margin-right:270px ;
+}
+.container2{
+    display:flex;
+    justify-content:space-between;
+    margin:40px 25px;
+}
+.indexsubmit{
+    background-color:blue;
+    color:white;
+    border:none;
+    padding:10px 20px;
+    font-weight:bold;
+    font-size: 15px;
+    border-radius:5px;
+}
+.bottom-nav{display: flex;
+    width:453px;
+    justify-content:right;
+    margin-top:20px;
+    font-size:14px;
+}
+.Help{
+    margin-right:20px;
+}
+.Privacy{
+    margin-right:20px;
+}
+.bottom-nav a{
+    color:grey;
+}
+body{
+    font-family: "Google Sans","Noto Sans Myanmar UI",arial,sans-serif;
+    color: #202124;
+}

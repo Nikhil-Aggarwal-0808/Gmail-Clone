@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styleindex.css" type="text/css">
+    <title>
+        Log In page
+    </title>
+</head>
+<body>
+    <center>
+        <div class="loginpage">
+            <div class="container1">
+                <div class="logo">
+                    <img src="logo.png" id="googlepic">
+                </div>
+                <div class="sn">
+                    <span>
+                        Sign in
+                    </span>
+                </div>
+                <div class="gm">
+                    <span>to continue to gmail</span>
+                </div>
+                <form class="indexform" action="signin.jsp">
+                    <input type="mail" placeholder="Email or phone" class="inputindex" name="username">
+					<input type="password" placeholder="password" class="inputindex" name="pass1">
+                    <div class="forgot" >
+                        <a href="#" >
+                            <span>
+                                Forgot email?
+                            </span>
+                        </a>
+                    </div>
+                    <div class="texts">
+                        <span>
+                            Not your computer? Use Guest mode to sign in privately.
+                        </span>
+                    </div>
+                    <div class="learn">
+                        <a href="#">
+                            <span>
+                                Learn More
+                            </span>
+                        </a>
+                    </div>
+                    <div class="container2">
+                        <div class="new">
+                            <a href="newuser.html">
+                                <span>
+                                    Create Account
+                                </span>
+                            </a>
+                        </div>
+                        <button type="submit" class="indexsubmit">
+                            Next
+                        </button>
+                    </div>
+                </div>
+                </form>
+            <div class="bottom-nav">
+                <div class="Help">
+                    <a href="#">
+                        <span>
+                            Help
+                        </span>
+                    </a>
+                </div>
+                <div class="Privacy">
+                    <a href="#">
+                        <span>
+                            Privacy
+                        </span>
+                    </a>
+                </div>
+                <div class="terms">
+                    <a href="#">
+                        <span>
+                            Terms of use
+                        </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </center>
+</body>
+</html>
